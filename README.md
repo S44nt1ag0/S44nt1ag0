@@ -1,4 +1,4 @@
-# Olá, meu nome é Santiago 👋
+# Olá 👋
 
 Atualmente no mercado de tecnologia, trabalho tanto com Front-end quanto com Back-end. Atuo na criação de Landing Pages, portfolios, e-commerce para grandes e pequenos negócios, entre outros tipos de websites.
 ## Linguagem Mas Usada "Atualmente"
