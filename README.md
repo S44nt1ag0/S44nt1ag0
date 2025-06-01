@@ -12,7 +12,7 @@ I'm currently active in the tech industry, working across both **Front-end** and
 
 ## Services Offered
 
-🌐 Full-stack Website Development using modern frameworks (C#, TypeScript, PHP, React, Rust)
-🗂️ Scalable MVC Architecture Projects (API-centric and monolithic)
-🤖 Intelligent Bot Development (Telegram, Discord, WhatsApp, etc.)
-📬 RabbitMQ, Redis Pub/Sub
+- 🌐 Full-stack Website Development using modern frameworks (C#, TypeScript, PHP, React, Rust)
+- 🗂️ Scalable MVC Architecture Projects (API-centric and monolithic)
+- 🤖 Intelligent Bot Development (Telegram, Discord, WhatsApp, etc.)
+- 📬 RabbitMQ, Redis Pub/Sub
