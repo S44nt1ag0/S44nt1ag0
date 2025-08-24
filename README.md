@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm currently active in the tech industry, working across both **Front-end** and **Back-end** development. I specialize in building **landing pages**, **portfolios**, **e-commerce platforms** for both small and large businesses, and various other types of websites.
+I currently work in the tech industry as a back-end and front-end developer, with a strong focus on software architecture and best development practices. I have solid experience in building RESTful APIs, following patterns such as MVC, DDD, and other principles of scalable and maintainable design. I develop robust systems, integrate with external services, and structure complete web solutions—ranging from small applications to large-scale platforms.
 
 ## Most Used Technologies
 
