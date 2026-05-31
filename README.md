@@ -1,20 +1,79 @@
-# Hello 👋
+<div align="center">
 
-I currently work in the tech industry as a back-end and front-end developer, with a strong focus on software architecture and best development practices. I have solid experience in building RESTful APIs, following patterns such as MVC, DDD, and other principles of scalable and maintainable design. I develop robust systems, integrate with external services, and structure complete web solutions—ranging from small applications to large-scale platforms.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Santiago+%F0%9F%91%8B;Full-Stack+%26+Software+Architect;API+%7C+DDD+%7C+Scalable+Systems;Building+things+that+last." alt="Typing SVG" />
 
-## Most Used Technologies
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-trevisol)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.trevisol@debitodireto.com)
+
+</div>
+
+---
+
+## About Me
+
+Full-stack developer with deep focus on **software architecture**, **scalable API design**, and **clean code principles**. I build systems that grow without breaking — from small services to large-scale platforms.
+
+- **Backend:** RESTful APIs, DDD, MVC, microservices, event-driven systems
+- **Frontend:** React, Next.js, modern UI with performance in mind
+- **Infrastructure:** Docker, Redis, RabbitMQ, CI/CD pipelines
+- Currently working at **Débito Direto** — fintech, high-volume transaction systems
+
+---
+
+## Tech Stack
+
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Services Offered
+**Frameworks & Runtimes**
 
-- 🌐 Full-stack Website Development using modern frameworks (C#, TypeScript, PHP, React, Rust)
-- 🗂️ Scalable MVC Architecture Projects (API-centric and monolithic)
-- 🤖 Intelligent Bot Development (Telegram, Discord, WhatsApp, etc.)
-- 📬 RabbitMQ, Redis Pub/Sub
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=S44nt1ag0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S44nt1ag0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+## What I Build
+
+| Area | Expertise |
+|------|-----------|
+| **APIs** | RESTful, versioned, documented, auth-first |
+| **Architecture** | DDD, MVC, Clean Architecture, event-driven |
+| **Bots & Automation** | Telegram, Discord, WhatsApp integrations |
+| **Fintech Systems** | High-volume, transactional, audit-ready |
+| **Full-stack Apps** | From DB schema to pixel-perfect UI |
+
+---
+
+<div align="center">
+
+**Open to senior/staff roles, consulting, and interesting problems.**
+
+*Let's build something solid.*
+
+</div>
