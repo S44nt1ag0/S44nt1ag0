@@ -33,10 +33,19 @@ Full-stack developer with deep focus on **software architecture**, **scalable AP
 
 **Frameworks & Runtimes**
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Cloud — AWS**
+
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 
 **Infrastructure & Tools**
 
@@ -51,8 +60,14 @@ Full-stack developer with deep focus on **software architecture**, **scalable AP
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=S44nt1ag0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S44nt1ag0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=S44nt1ag0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S44nt1ag0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=S44nt1ag0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
