@@ -60,8 +60,8 @@ Full-stack developer with deep focus on **software architecture**, **scalable AP
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=S44nt1ag0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S44nt1ag0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S44nt1ag0&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S44nt1ag0&theme=tokyonight" height="160" />
 
 </div>
 
