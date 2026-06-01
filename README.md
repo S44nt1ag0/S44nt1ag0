@@ -16,12 +16,7 @@
 
 ## About Me
 
-Backend-focused full-stack developer, 21 y/o, based in Blumenau, SC. Degree in **Information Security** + postgrad in **Java Development**. I build scalable APIs, cloud-native systems, and structured architectures — currently in a fintech with high-volume transaction demands.
-
-- 3+ years of professional experience (SENAI → Débito Direto)
-- Strong in **DDD, MVC, Clean Architecture, event-driven** patterns
-- AWS-certified practical experience: Lambda, ECS, RDS, ElastiCache, Beanstalk
-- Curious by nature — security background informs how I write backend code
+Backend developer, 22 y/o, based in Blumenau, SC. Started coding at 17 and never really stopped — 3+ years of professional experience, currently at a fintech building high-volume transaction systems. Degree in **Information Security**, which shapes everything: auth-first thinking, least privilege by default, security baked into the architecture from day one — not added at the end. Backend is where I live: APIs, event-driven systems, DDD, cloud on AWS.
 
 ---
 
