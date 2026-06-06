@@ -22,7 +22,7 @@ Backend developer, 22 y/o, based in Blumenau, SC. Started coding at 17 and never
 
 ## Experience
 
-**Débito Direto** &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; *2024 – present (1 year)*
+**Débito Direto** &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; *2024 – present (2 year)*
 > TypeScript · NestJS · AWS · Docker · RabbitMQ · Redis · Jira
 
 **SENAI** &nbsp;·&nbsp; Junior Developer &nbsp;·&nbsp; *2022 – 2024 (2 years)*
